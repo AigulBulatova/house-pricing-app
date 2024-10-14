@@ -1,0 +1,3 @@
+model/.ipynb_checkpoints/
+model/catboost_info/
+views/__pycache__/
